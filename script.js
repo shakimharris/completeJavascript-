@@ -1,25 +1,5 @@
-//Operation precedence
-var now = 2018;
-var yearJohn = 1989;
-var fullAge = 18;
+//CODING CHALLENGE #1;
 
-var isfullAge = now - yearJohn > fullAge;
-console.log(isfullAge);
-
-//grouping
-var ageJohn = now - yearJohn;
-var ageMark = 35;
-var average = (ageJohn + ageMark) / 2;
-console.log(average);
-
-//multiple values to variables
-var x, y;
-x = y = (3+5) * 4 -6 //8 *4 = 32. 32 -6 = 26
-console.log(x, y);
-//more operators
-x *= 2;
-console.log(x);
-x++;
-console.log(x);
-x--;
-console.log(x);
+johnWeight = 300 kg;
+markWeight = 333 kg;
+john
