@@ -1,4 +1,4 @@
-//Variable Mutation and Type Coercion
+//Type Coercion
 
 var firstName = 'Shakim';
 var age = 23;
@@ -10,4 +10,4 @@ job = 'teacher';
 isMarried = false;
 
 console.log(firstName + 'is a' + age + 'year old' + ' ' +
-job + 'Is he married' + isMarried)
+job + 'Is he married' + isMarried);
