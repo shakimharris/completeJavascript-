@@ -13,3 +13,5 @@ var whatdoyouDo = function (job, firstName){
   }
 }
 console.log(whatdoyouDo('teacher', 'John'));
+console.log(whatdoyouDo('designer', 'Kristina'));
+console.log(whatdoyouDo('driver', 'Umar'));
