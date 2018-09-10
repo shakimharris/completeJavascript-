@@ -1,4 +1,5 @@
 //switch statement
+var firstName = 'Shakim';
 var job = 'principle';
 switch (job){
   case 'teacher':
