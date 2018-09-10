@@ -14,4 +14,4 @@ var johnOlder = ageJohn > ageSmith;
 console.log(ageJohn > ageSmith);
 //type of operators
 
-console.log(typeOf johnOlder);
+console.log(typeof johnOlder);
