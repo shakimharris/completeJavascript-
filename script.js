@@ -1,5 +1,5 @@
 //function expressions
-var whatdoyouDo = function (name, birthYear){
+var whatdoyouDo = function (job, firstName){
   switch(job){
     case 'teacher':
     return firstName + 'teaches how to code';
@@ -12,3 +12,4 @@ var whatdoyouDo = function (name, birthYear){
     return firstName + 'does other things';
   }
 }
+console.log(whatdoyouDo('teacher', 'John'));
