@@ -21,3 +21,5 @@ x *= 2;
 console.log(x);
 x++;
 console.log(x);
+x--;
+console.log(x);
