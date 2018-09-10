@@ -15,4 +15,4 @@ job + 'Is he married' + isMarried);
 age = 28;
 job = 'driver';
 
-alert(firstName + ' ' + 'is a + age' + ' ' + 'year old' + ' ' + 'job');
+alert(firstName + ' ' + 'is a' + age + ' ' + 'year old' + ' ' + 'job');
