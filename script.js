@@ -19,3 +19,5 @@ console.log(x, y);
 //more operators
 x *= 2;
 console.log(x);
+x++;
+console.log(x);
