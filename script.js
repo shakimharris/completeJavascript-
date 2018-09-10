@@ -10,5 +10,7 @@ switch (job){
    case 'designer':
    console.log(firstName + 'creates PSD designs');
    break;
-   
+   default:
+   console.log(firstName + 'teaches kids nothing');
+
 }
