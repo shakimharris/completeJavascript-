@@ -8,3 +8,6 @@ console.log(firstName + ' ' + age);
 var job, isMarried
 job = 'teacher';
 isMarried = false;
+
+console.log(firstName + 'is a' + age + 'year old' + ' ' +
+job)
