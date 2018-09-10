@@ -10,4 +10,4 @@ job = 'teacher';
 isMarried = false;
 
 console.log(firstName + 'is a' + age + 'year old' + ' ' +
-job)
+job + 'Is he married' + isMarried)
