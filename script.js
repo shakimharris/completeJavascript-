@@ -12,3 +12,6 @@ console.log(year / 3);
 // Logical operators
 var johnOlder = ageJohn > ageSmith;
 console.log(ageJohn > ageSmith);
+//type of operators
+
+console.log(typeOf johnOlder);
