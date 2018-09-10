@@ -42,4 +42,11 @@ console.log(averageJohn);
 
 var averageMike = (mikeTeam1 + mikeTeam2 + mikeTeam3) / 3;
 console.log(averageMike);
-//calculate the average score for each team 
+//calculate the average score for each team john's 111, mike's 104
+
+if (averageMike > averageJohn){
+  console.log('Mike\'s team scores on average higher than John\'s team' + averageMike);
+}
+else if (averageJohn > averageMike){
+  console.log('John\'s team scores on average higher than Mike\'s team' + averageJohn);
+}
