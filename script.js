@@ -6,7 +6,7 @@ if (age <13) {
   console.log(firstName + '' + 'is a Boy');
 }
 
-else if () { //between 13 and 20; age >= 13l age < 20;
+else if (age >= 13 && age < 20) {
   console.log(firstName + 'is a teenager');
 
 } else {
