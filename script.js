@@ -27,3 +27,19 @@ switch (job){
 }
 }
 */
+
+
+var johnGame1 = 89;
+var johnGame2 = 120;
+var johnGame3 = 103;
+
+var mikeTeam1 = 116;
+var mikeTeam2 = 94;
+var mikeTeam3 = 123;
+
+var averageJohn = (johnGame1 + johnGame2 + johnGame3) / 3;
+console.log(averageJohn);
+
+var averageMike = (mikeTeam1 + mikeTeam2 + mikeTeam3) / 3;
+console.log(averageMike);
+//calculate the average score for each team 
