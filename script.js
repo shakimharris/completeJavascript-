@@ -10,3 +10,4 @@ console.log(year * 2);
 console.log(year / 3);
 
 // Logical operators
+var johnOlder = ageJohn > ageSmith;
