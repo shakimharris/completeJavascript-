@@ -29,7 +29,7 @@ switch (job){
 */
 
 var height;
-height = 23;
+height = 'twenty';
 if (height || height === 0){
   console.log('variable is defined');
 } else {
