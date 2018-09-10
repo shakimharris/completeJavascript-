@@ -16,3 +16,5 @@ age = 28;
 job = 'driver';
 
 alert(firstName + ' ' + 'is a' + age + ' ' + 'year old' + ' ' + 'job');
+
+var firstName= prompt('What is his last name?');
