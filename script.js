@@ -18,3 +18,4 @@ console.log(bmiMark);
 var highestBMI = bmiMark > bmiJohn;
 console.log(highestBMI);
 //completed step 3
+console.log("Is Mark's BMI higher than John's?" + highestBMI);
