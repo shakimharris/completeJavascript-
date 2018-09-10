@@ -2,4 +2,5 @@
 function calculateAge(birthYear){
   return 2018 - birthYear;
 }
-calculateAge(1990);
+var ageJohn = calculateAge(1990);
+console.log(calculateAge);
