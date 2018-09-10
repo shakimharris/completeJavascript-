@@ -6,3 +6,6 @@ console.log(firstName + age);
 
 var name = true;
 console.log(name);
+
+var name = false;
+console.log(name);
