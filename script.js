@@ -22,5 +22,7 @@ switch (job){
    case age >=20 && < 30:
    console.log(firstName + 'is a young man');
    break;
+   default:
+   console.log(firstName + 'is a man');
 }
 }
