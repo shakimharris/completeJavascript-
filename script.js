@@ -2,4 +2,7 @@
 
 johnWeight = 300 kg;
 markWeight = 333 kg;
-john
+johnHeight = 5 m;
+markHeight = 6 m;
+
+//completed step 1
