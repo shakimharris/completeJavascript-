@@ -15,3 +15,5 @@ var bmiMark = markWeight / (markHeight * markHeight);
 console.log(bmiMark);
 
 //completed step 2
+var highestBMI = bmiMark > bmiJohn;
+//completed step 3 
