@@ -29,9 +29,13 @@ switch (job){
 */
 
 var height;
-height = 'twenty';
+height = 23;
 if (height || height === 0){
   console.log('variable is defined');
 } else {
   console.log('variable has not been defined');
+}
+//Equality operators
+if (height == '23'){
+  console.log('=== performs type coercion!');
 }
