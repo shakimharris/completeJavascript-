@@ -16,4 +16,5 @@ console.log(bmiMark);
 
 //completed step 2
 var highestBMI = bmiMark > bmiJohn;
-//completed step 3 
+console.log(highestBMI);
+//completed step 3
