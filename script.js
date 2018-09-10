@@ -11,3 +11,6 @@ isMarried = false;
 
 console.log(firstName + 'is a' + age + 'year old' + ' ' +
 job + 'Is he married' + isMarried);
+
+age = 28;
+job = 'driver';
