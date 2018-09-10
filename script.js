@@ -1,5 +1,5 @@
 //switch statement
-var firstName = 'Shakim';
+/*var firstName = 'Shakim';
 var job = 'instructor';
 switch (job){
   case 'teacher':
@@ -25,4 +25,13 @@ switch (job){
    default:
    console.log(firstName + 'is a man');
 }
+}
+*/
+
+var height;
+
+if (height){
+  console.log('variable is defined');
+} else {
+  console.log('variable has not been defined');
 }
