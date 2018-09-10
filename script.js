@@ -1,6 +1,6 @@
 //switch statement
 var firstName = 'Shakim';
-var job = 'principle';
+var job = 'teacher';
 switch (job){
   case 'teacher':
    console.log(firstName + 'teaches kids how to code.');
