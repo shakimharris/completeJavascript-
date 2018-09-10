@@ -14,5 +14,5 @@ console.log(average);
 
 //multiple values to variables
 var x, y;
-x = (3+5) * 4 -6 //8 *4 = 32. 32 -6 = 26
-console.log(x);
+x = y = (3+5) * 4 -6 //8 *4 = 32. 32 -6 = 26
+console.log(x, y);
