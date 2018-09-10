@@ -6,3 +6,7 @@ var ageJohn = calculateAge(1990);
 var ageMike = calculateAge(1948);
 var ageMary = calculateAge(1888);
 console.log(ageJohn, ageMike, ageMary);
+
+function yearsuntilRetirement (birthYear, firstName){
+  var age =
+}
