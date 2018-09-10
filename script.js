@@ -15,4 +15,9 @@ switch (job){
    default:
    console.log(firstName + 'teaches kids nothing');
 
+   switch(true) {
+   case age < 13:
+   console.log(firstName + 'is a teenager');
+   break;
+}
 }
