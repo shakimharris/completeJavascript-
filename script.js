@@ -12,4 +12,4 @@ function yearsuntilRetirement (year, firstName){
   var retirement = retirement - age;
   console.log(firstName + 'retires in' + retirement + 'years');
 }
-yearsuntilRetirement(1990, John);
+yearsuntilRetirement(1990, 'John');
